@@ -7,7 +7,6 @@ array.sort!
 end
 
 def using_reverse(array)
-using_sort(array)
 array.reverse!
 end
 
